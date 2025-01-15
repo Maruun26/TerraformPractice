@@ -2,6 +2,9 @@
 **/.terraform/*
 .terraform/
 
+.exe
+
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
